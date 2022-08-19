@@ -1,7 +1,7 @@
 module.exports = {
   title: '前端学习笔记',
   description: '记录前端学习的路径过程和笔记',
-  base: '/frontEnd-learn-notes/',
+  base: '/frontEndNotes/',
   locales: {
     '/': {
       lang: 'zh-CN'
